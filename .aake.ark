@@ -1,0 +1,5 @@
+--- TARGET ---
+Name = frameworks
+Type = copy
+Sources = .
+Dest = builddir/system/frameworks
